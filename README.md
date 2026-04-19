@@ -25,3 +25,9 @@ go build -o notely && ./notely
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
 jct-hub's version of Boot.dev's Notely App.
+
+
+Motivation: To learn more about learning CI/CD.
+Quick Start: Working on a way to get a installation command (e.g., pip install x, clone repo).
+Usage: Automatic transcription, summaries, and AI-powered insights for meetings, lectures, and interviews.
+Contributing: focuses on social impact for meetings, lectures, and interviews.
